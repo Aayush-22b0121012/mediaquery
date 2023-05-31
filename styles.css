@@ -22,7 +22,7 @@ button {
   div{
     font-size: 2rem;
   }
-  @media (max-width: 1080px) and (min-width: 390px){
+  @media (max-width: 844px) and (min-width: 390px){
     div{
       font-size: 2rem;
       max-height: fit-content;
